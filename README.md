@@ -1,11 +1,23 @@
 # **LoRa**
 Repo of some indroductory materials regarding LoRa and LoRaWAN radio technologies
 
+**Note:** The content is organised in a more readable way below, but it's available directly though this URL [here](https://raw.githubusercontent.com/oliveiraleo/LoRa/main/LoRa-useful-URLs.txt)
+
+You can also pull a updated copy using:
+
+`wget https://raw.githubusercontent.com/oliveiraleo/LoRa/main/LoRa-useful-URLs.txt`
+
+And then open (for eg. with nano):
+
+`nano LoRa-useful-URLs.txt`
+
 #  English
 
 ## Introduction
 
 Here there are the material with some initial definitions that are useful for understanding the LoRa protocol
+
+### Articles / Text
 
 <ol>
 
@@ -21,13 +33,21 @@ What is the LoRaWAN® Specification: [https://lora-alliance.org/about-lorawan/](
 
 What is LoRaWAN®: [https://lora-alliance.org/resource_hub/what-is-lorawan/](https://lora-alliance.org/resource_hub/what-is-lorawan/)
 
-<li>Signal-to-Noise Ratio</li>
 
-What is SNR - 13:16 : [https://www.youtube.com/watch?v=MSKYeWfsNO0](https://www.youtube.com/watch?v=MSKYeWfsNO0)
 
 <li>Chirp signaling at Wikipedia</li>
 
 [https://en.wikipedia.org/wiki/Chirp](https://en.wikipedia.org/wiki/Chirp)
+</ol>
+
+### Videos
+
+<ol>
+
+<li>Signal-to-Noise Ratio - 13:16</li>
+
+What is SNR by Darryl Morrell's channel: [https://www.youtube.com/watch?v=MSKYeWfsNO0](https://www.youtube.com/watch?v=MSKYeWfsNO0)
+
 </ol>
 
 ### Papers / Publications:
@@ -59,6 +79,18 @@ Aqui o material disponível em Português já que alguns podem achar melhor para
 ##  Introdução
 
 Coletânea de material introdutório.
+
+### Artigos / Textos
+
+<ol>
+
+<li>Página da Wikipedia sobre LoRa</li>
+
+**Dica:** A página está incompleta no momento, recomendo a leitura da versão [em inglês](https://en.wikipedia.org/wiki/LoRa)
+
+[https://pt.wikipedia.org/wiki/LoRa](https://pt.wikipedia.org/wiki/LoRa)
+
+</ol>
 
 ### Vídeos
 
