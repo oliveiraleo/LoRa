@@ -1,13 +1,13 @@
 # **LoRa**
-Repo of some indroductory materials regarding LoRa and LoRaWAN radio technologies
+Repo of some introductory materials regarding LoRa and LoRaWAN radio technologies
 
-**Note:** The content is organised in a more readable way below, but it's available directly though this URL [here](https://raw.githubusercontent.com/oliveiraleo/LoRa/main/LoRa-useful-URLs.txt)
+**Note:** The content is organized in a more readable way below, but it's available directly though this URL [here](https://raw.githubusercontent.com/oliveiraleo/LoRa/main/LoRa-useful-URLs.txt)
 
 You can also pull a updated copy using:
 
 `wget https://raw.githubusercontent.com/oliveiraleo/LoRa/main/LoRa-useful-URLs.txt`
 
-And then open (for eg. with nano):
+And then open (for Eg. with nano):
 
 `nano LoRa-useful-URLs.txt`
 
