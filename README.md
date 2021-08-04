@@ -46,6 +46,7 @@ Alper Yegin, Thorsten Kramp, Pierre Dufour, Rohit Gupta, Ramez Soss, Olivier Her
 [https://doi.org/10.1016/B978-0-12-818880-4.00003-X](https://doi.org/10.1016/B978-0-12-818880-4.00003-X)
 
 </ol>
+
 ## InfoSec
 
 *TBD soon*
@@ -53,9 +54,13 @@ Alper Yegin, Thorsten Kramp, Pierre Dufour, Rohit Gupta, Ramez Soss, Olivier Her
 
 # Portuguese
 
-Aqui o material disponível em Português. Alguns podem achar melhor para entender dado que é um assunto tremendamente técnico.
+Aqui o material disponível em Português já que alguns podem achar melhor para entender, dado que é um assunto tremendamente técnico.
 
-## Vídeos
+##  Introdução
+
+Coletânea de material introdutório.
+
+### Vídeos
 
 Vídeos podem ser uma ótima forma de aprender por conta das possibilidades que os recursos visuais trazem para o processo de aprendizado
 
@@ -71,7 +76,7 @@ Vídeo do canal Microgenios com uma explicação dos conceitos SW, PW & AT da te
 [https://www.youtube.com/watch?v=6fSIgRUznnk](https://www.youtube.com/watch?v=6fSIgRUznnk)
 
 
-<li>Camada Física de LoRa - 13:55</li>
+<li>Camada Física de LoRa - 7:48</li>
 Vídeo do canal Vermont Rep com uma introdução aos conceitos basicos da camada física do protocolo LoRa
 
 [https://www.youtube.com/watch?v=lkgynwPjymo](https://www.youtube.com/watch?v=lkgynwPjymo)
