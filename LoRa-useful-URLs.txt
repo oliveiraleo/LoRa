@@ -43,6 +43,18 @@ https://doi.org/10.1016/B978-0-12-818880-4.00003-X
 
 --InfoSec--
 
+---Articles / Text---
+
+LoRaWAN® Security FAQ
+
+https://lora-alliance.org/resource_hub/lorawan-security-faq/
+
+---Videos---
+
+TBD soon
+
+---Papers / Publications---
+
 TBD soon
 
 

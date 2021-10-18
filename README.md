@@ -69,6 +69,22 @@ Alper Yegin, Thorsten Kramp, Pierre Dufour, Rohit Gupta, Ramez Soss, Olivier Her
 
 ## InfoSec
 
+---Articles / Text---
+
+<ol>
+
+<li>LoRaWAN</li>
+
+Security FAQ (introduction to newbies): [https://lora-alliance.org/resource_hub/lorawan-security-faq/](https://lora-alliance.org/resource_hub/lorawan-security-faq/)
+
+</ol>
+
+---Videos---
+
+*TBD soon*
+
+---Papers / Publications---
+
 *TBD soon*
 
 
@@ -114,3 +130,7 @@ Vídeo do canal Vermont Rep com uma introdução aos conceitos basicos da camada
 [https://www.youtube.com/watch?v=lkgynwPjymo](https://www.youtube.com/watch?v=lkgynwPjymo)
 
 </ol>
+
+# Note
+
+This repo still as a work in progress, so updates are expected in the future.
