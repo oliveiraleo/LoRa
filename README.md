@@ -34,10 +34,24 @@ What is the LoRaWAN® Specification: [https://lora-alliance.org/about-lorawan/](
 What is LoRaWAN®: [https://lora-alliance.org/resource_hub/what-is-lorawan/](https://lora-alliance.org/resource_hub/what-is-lorawan/)
 
 
-
 <li>Chirp signaling at Wikipedia</li>
 
+[https://en.wikipedia.org/wiki/Chirp_spread_spectrum](https://en.wikipedia.org/wiki/Chirp_spread_spectrum)
+
+<li>Chirp Spread Spectrum at Wikipedia</li>
+
 [https://en.wikipedia.org/wiki/Chirp](https://en.wikipedia.org/wiki/Chirp)
+
+<li>Introduction to IoT: Everything You Need to Know About LoRa and LoRaWAN</li>
+
+Many key concepts of LoRa: [https://appcodelabs.com/introduction-to-iot-everything-you-need-to-know-about-lora-and-lorawan](https://appcodelabs.com/introduction-to-iot-everything-you-need-to-know-about-lora-and-lorawan)
+
+<li>The Things Network docs</li>
+
+A even more complete introductory guide regarding LoRa and LoRaWAN:
+[https://www.thethingsnetwork.org/docs/lorawan/](https://www.thethingsnetwork.org/docs/lorawan/)
+
+
 </ol>
 
 ### Videos
@@ -47,6 +61,10 @@ What is LoRaWAN®: [https://lora-alliance.org/resource_hub/what-is-lorawan/](htt
 <li>Signal-to-Noise Ratio - 13:16</li>
 
 What is SNR by Darryl Morrell's channel: [https://www.youtube.com/watch?v=MSKYeWfsNO0](https://www.youtube.com/watch?v=MSKYeWfsNO0)
+
+<li>LoRa CHIRP - 3:50</li>
+
+How does the CHIRP modulation works on LoRa networks: [https://www.youtube.com/watch?v=dxYY097QNs0](https://www.youtube.com/watch?v=dxYY097QNs0)
 
 </ol>
 

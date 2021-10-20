@@ -20,12 +20,28 @@ https://lora-alliance.org/resource_hub/what-is-lorawan/
 Chirp signaling at Wikipedia
 https://en.wikipedia.org/wiki/Chirp
 
+Chirp signaling at Wikipedia
+https://en.wikipedia.org/wiki/Chirp_spread_spectrum
+
+Introduction to IoT: Everything You Need to Know About LoRa and LoRaWAN
+Many key concepts of the LoRa technology
+https://appcodelabs.com/introduction-to-iot-everything-you-need-to-know-about-lora-and-lorawan
+
+The Things Network docs
+A even more complete introductory guide regarding LoRa and LoRaWAN
+https://www.thethingsnetwork.org/docs/lorawan/
+
 ---Videos---
 
 Signal-to-Noise Ratio - 13:16
 
 What is SNR by Darryl Morrell's channel
 https://www.youtube.com/watch?v=MSKYeWfsNO0
+
+LoRa CHIRP - 3:50
+
+How does the CHIRP modulation works on LoRa networks
+https://www.youtube.com/watch?v=dxYY097QNs0
 
 ---Papers / Publications---
 
