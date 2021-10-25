@@ -43,6 +43,12 @@ LoRa CHIRP - 3:50
 How does the CHIRP modulation works on LoRa networks
 https://www.youtube.com/watch?v=dxYY097QNs0
 
+
+Everything you need to know about LoRaWAN in 60 minutes - 01:00:00
+Complete introductory material made available by video recording
+Free Udemy course (split in 8 chapters, with some extra resources): https://www.udemy.com/course/lorawan-fundamentals/
+Complete 1 hour straight video only: https://www.youtube.com/watch?v=ZsVhYiX4_6o
+
 ---Papers / Publications---
 
 On the LoRa Modulation for IoT: Waveform Properties and Spectral Analysis
@@ -65,6 +71,10 @@ LoRaWAN® Security FAQ
 
 https://lora-alliance.org/resource_hub/lorawan-security-faq/
 
+The Things Network docs (security)
+Introductory concepts regarding the security aspect of LoRa and LoRaWAN
+https://www.thethingsnetwork.org/docs/lorawan/security/
+
 ---Videos---
 
 TBD soon
@@ -83,6 +93,9 @@ TBD soon
 Página da Wikipedia sobre LoRa
 Dica: A página está incompleta no momento, recomendo a leitura da versão [em inglês](https://en.wikipedia.org/wiki/LoRa)
 https://pt.wikipedia.org/wiki/LoRa
+
+Página da Wikipedia sobre Chirp Spread Spectrum
+https://pt.wikipedia.org/wiki/Redes_Chirp
 
 ---Vídeos---
 

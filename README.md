@@ -66,6 +66,14 @@ What is SNR by Darryl Morrell's channel: [https://www.youtube.com/watch?v=MSKYeW
 
 How does the CHIRP modulation works on LoRa networks: [https://www.youtube.com/watch?v=dxYY097QNs0](https://www.youtube.com/watch?v=dxYY097QNs0)
 
+<li>Everything you need to know about LoRaWAN in 60 minutes - 01:00:00</li>
+
+Complete introductory material made available by video recording:
+
+- Free Udemy course (split in 8 chapters, with some extra resources): https://www.udemy.com/course/lorawan-fundamentals/
+
+- Complete 1 hour straight video only: https://www.youtube.com/watch?v=ZsVhYiX4_6o
+
 </ol>
 
 ### Papers / Publications:
@@ -95,6 +103,11 @@ Alper Yegin, Thorsten Kramp, Pierre Dufour, Rohit Gupta, Ramez Soss, Olivier Her
 
 Security FAQ (introduction to newbies): [https://lora-alliance.org/resource_hub/lorawan-security-faq/](https://lora-alliance.org/resource_hub/lorawan-security-faq/)
 
+<li>The Things Network docs (security)</li>
+
+Introductory concepts regarding the security aspect of LoRa and LoRaWAN:
+[https://www.thethingsnetwork.org/docs/lorawan/security/](https://www.thethingsnetwork.org/docs/lorawan/security/)
+
 </ol>
 
 ---Videos---
@@ -121,8 +134,11 @@ Coletânea de material introdutório.
 <li>Página da Wikipedia sobre LoRa</li>
 
 **Dica:** A página está incompleta no momento, recomendo a leitura da versão [em inglês](https://en.wikipedia.org/wiki/LoRa)
-
 [https://pt.wikipedia.org/wiki/LoRa](https://pt.wikipedia.org/wiki/LoRa)
+
+<li>Página da Wikipedia sobre Chirp Spread Spectrum</li>
+
+[https://pt.wikipedia.org/wiki/Redes_Chirp](https://pt.wikipedia.org/wiki/Redes_Chirp)
 
 </ol>
 
