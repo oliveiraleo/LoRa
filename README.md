@@ -36,11 +36,15 @@ What is LoRaWAN®: [https://lora-alliance.org/resource_hub/what-is-lorawan/](htt
 
 <li>Chirp signaling at Wikipedia</li>
 
-[https://en.wikipedia.org/wiki/Chirp_spread_spectrum](https://en.wikipedia.org/wiki/Chirp_spread_spectrum)
+[https://en.wikipedia.org/wiki/Chirp](https://en.wikipedia.org/wiki/Chirp)
 
 <li>Chirp Spread Spectrum at Wikipedia</li>
 
-[https://en.wikipedia.org/wiki/Chirp](https://en.wikipedia.org/wiki/Chirp)
+[https://en.wikipedia.org/wiki/Chirp_spread_spectrum](https://en.wikipedia.org/wiki/Chirp_spread_spectrum)
+
+<li>What are LoRa® and LoRaWAN®?</li>
+
+An introduction to LoRa & LoRaWAN done by Semtech (the developers of LoRa specification): [https://lora-developers.semtech.com/documentation/tech-papers-and-guides/lora-and-lorawan/](https://lora-developers.semtech.com/documentation/tech-papers-and-guides/lora-and-lorawan/)
 
 <li>Introduction to IoT: Everything You Need to Know About LoRa and LoRaWAN</li>
 
@@ -50,6 +54,10 @@ Many key concepts of LoRa: [https://appcodelabs.com/introduction-to-iot-everythi
 
 A even more complete introductory guide regarding LoRa and LoRaWAN:
 [https://www.thethingsnetwork.org/docs/lorawan/](https://www.thethingsnetwork.org/docs/lorawan/)
+
+ <li>End Device Activation at The Things Network</li>
+ 
+ A little bit more detailed explanation about OTAA & ABP activation modes (includes LoRa v1.1 specification): [https://www.thethingsnetwork.org/docs/lorawan/end-device-activation/](https://www.thethingsnetwork.org/docs/lorawan/end-device-activation/)
 
 
 </ol>
@@ -149,19 +157,22 @@ Vídeos podem ser uma ótima forma de aprender por conta das possibilidades que 
 <ol>
 <li>#11 - O QUE É LORAWAN? - 19:25</li>
 
-Vídeo do canal Matheus Leal com uma introdução geral a vários conceitos da tecnologia LoRa
+Vídeo do canal Matheus Leal com uma introdução geral a vários conceitos da tecnologia LoRa:
 [https://www.youtube.com/watch?v=JV5lLn3CYoc](https://www.youtube.com/watch?v=JV5lLn3CYoc)
 
 <li>#Aula3 - LoRa e LoRaWAN - Spreading Factor, Potência e AirTime - 13:55</li>
 
-Vídeo do canal Microgenios com uma explicação dos conceitos SW, PW & AT da tecnologia LoRa
+Vídeo do canal Microgenios com uma explicação dos conceitos SW, PW & AT da tecnologia LoRa:
 [https://www.youtube.com/watch?v=6fSIgRUznnk](https://www.youtube.com/watch?v=6fSIgRUznnk)
 
 
 <li>Camada Física de LoRa - 7:48</li>
-Vídeo do canal Vermont Rep com uma introdução aos conceitos basicos da camada física do protocolo LoRa
 
-[https://www.youtube.com/watch?v=lkgynwPjymo](https://www.youtube.com/watch?v=lkgynwPjymo)
+Vídeo do canal Vermont Rep com uma introdução aos conceitos basicos da camada física do protocolo LoRa: [https://www.youtube.com/watch?v=lkgynwPjymo](https://www.youtube.com/watch?v=lkgynwPjymo)
+
+<li>IoT DevKit - LoRaWAN: Enviando Dados Via LoRaWAN - 1:12:55</li>
+
+Vídeo do canal RoboCore com uma explicação sobre como ativar um dispositivo (end device), com explicações sobre o código utilizado no Arduino: [https://www.youtube.com/watch?v=ceEQe0QQWxM](https://www.youtube.com/watch?v=ceEQe0QQWxM)
 
 </ol>
 
