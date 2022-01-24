@@ -89,7 +89,11 @@ TBD soon
 
 ---Papers / Publications---
 
-TBD soon
+Increasing Key Randomness in Physical Layer Key Generation based on RSSI in LoRaWAN devices
+The authors propose a method of key generation through PKG (Physical layer Key Generation) using MSD (Mean and Standard Deviation), LCDF (Lossy Cumulative Distribution Function) and RSC (joint between Reed-Solomon & Convolutional) on low mobility environments
+https://doi.org/10.1016/j.phycom.2021.101480
+
+To be continued... (Work in progress)
 
 
 -PT-

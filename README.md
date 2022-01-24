@@ -103,7 +103,7 @@ Alper Yegin, Thorsten Kramp, Pierre Dufour, Rohit Gupta, Ramez Soss, Olivier Her
 
 ## InfoSec
 
----Articles / Text---
+### Articles / Text
 
 <ol>
 
@@ -118,13 +118,25 @@ Introductory concepts regarding the security aspect of LoRa and LoRaWAN:
 
 </ol>
 
----Videos---
+### Videos
 
 *TBD soon*
 
----Papers / Publications---
+### Papers / Publications
 
-*TBD soon*
+<ol>
+
+<li>Increasing Key Randomness in Physical Layer Key Generation based on RSSI in LoRaWAN devices</li>
+
+P.I. da Cruz, R. Suyama and M.B. Loiola, Increasing key randomness in physical layer key generation based on RSSI in LoRaWAN devices, Physical Communication (2021), doi:10.1016/j.phycom.2021.101480.
+
+The authors propose a method of key generation through PKG (Physical layer Key Generation) using MSD (Mean and Standard Deviation), LCDF (Lossy Cumulative Distribution Function) and RSC (joint between Reed-Solomon & Convolutional) on low mobility environments
+
+[https://doi.org/10.1016/j.phycom.2021.101480](https://doi.org/10.1016/j.phycom.2021.101480)
+
+</ol>
+
+*To be continued...* (Work in progress)
 
 
 # Portuguese
